@@ -1,4 +1,4 @@
-# AuraWedding - Complete Wedding Event Management System
+# AuraWedding - Full-Stack Wedding Event Management System
 
 ## 🎊 Overview
 AuraWedding is a full-stack wedding event management system designed for managing all aspects of Indian wedding ceremonies. It includes separate login systems for users and admins, complete CRUD operations for weddings, guests, events, and bookings.
@@ -71,7 +71,7 @@ http://localhost/AuraWedding/index.html
 
 ### User Features
 ✅ User & Admin separate login systems
-✅ Wedding profile management (Bride, Groom, Venue, Budget)
+✅ Wedding profile management
 ✅ Sub-events CRUD (Haldi, Mehendi, Sangeet, Vivaha)
 ✅ Guest management with RSVP tracking
 ✅ Hotel booking for guests
