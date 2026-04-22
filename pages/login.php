@@ -118,7 +118,7 @@ if (isset($_POST['action']) && $_POST['action'] === 'register') {
                     <label>Password</label>
                     <input type="password" name="password" placeholder="••••••••" required>
                 </div>
-                <button type="submit" class="btn btn-primary" style="width:100%; font-size:1rem; padding:14px">Sign In →</button>
+                <button type="submit" class="btn btn-primary" style="width:1G00%; font-size:1rem; padding:14px">Sign In →</button>
             </form>
 
             <div style="text-align:center; margin-top:20px; padding:16px; background:var(--gray); border-radius:12px; font-size:0.85rem; color:#666">

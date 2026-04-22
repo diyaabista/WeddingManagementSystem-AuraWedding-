@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 💍 AuraWedding — Complete Wedding Management System
+=======
+# AuraWedding - Full-Stack Wedding Event Management System
+>>>>>>> 1fcfdceba16b4de802fed3851d108addd6962b9e
 
 A full-featured PHP + MySQL wedding event management website with user portal, admin dashboard, booking system, and multi-ceremony support.
 
@@ -57,7 +61,40 @@ http://localhost/AuraWedding/
 | Planner | planner@aurawedding.com      | password   |
 | User    | Register via the website     | (your own) |
 
+<<<<<<< HEAD
 > **Note:** The default passwords use `password` as the string. These are hashed with bcrypt in the database.
+=======
+**Admin Account:**
+- Email: `admin@aurawedding.com`
+- Password: `wedding123`
+
+---
+
+## ✨ Features
+
+### User Features
+✅ User & Admin separate login systems
+✅ Wedding profile management
+✅ Sub-events CRUD (Haldi, Mehendi, Sangeet, Vivaha)
+✅ Guest management with RSVP tracking
+✅ Hotel booking for guests
+✅ Browse 1000+ design gallery with filtering
+✅ Mandap style selection with customization
+✅ Catering menu selection
+✅ Seat types planning (Normal Chair, Sofa Seating, Round Table)
+✅ Gift/Shagun registry
+✅ Live budget calculator
+✅ Dashboard with timeline & statistics
+✅ Add items to "My List" and submit booking
+✅ Session management with role-based access
+
+### Admin Features
+✅ Admin login with admin verification
+✅ View all client bookings
+✅ Update booking status
+✅ Track booking timeline
+✅ System overview
+>>>>>>> 1fcfdceba16b4de802fed3851d108addd6962b9e
 
 ---
 
