@@ -13,7 +13,7 @@ Catering & decoration selection
 Wedding planner checklist & budget calculator
 Personal dashboard with booking status
 “My Bookings” tracking system
-🔐 Admin Features
+🔐 Admin Features 
 Admin dashboard with analytics
 Manage bookings (confirm / reject / complete)
 User management system
